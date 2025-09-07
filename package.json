@@ -1,0 +1,15 @@
+{
+  "name": "versionsverwaltung-tool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "versionsverwaltung": "index.js"
+  },
+  "dependencies": {
+    "commander": "^9.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT"
+}
